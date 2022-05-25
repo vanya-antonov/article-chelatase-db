@@ -1,0 +1,294 @@
+308648	Pro_0319	chlD	Cyanobacteria	NULL	Prochlorococcus marinus subsp. marinus str. CCMP1375
+308929	tll1413	chlD	Cyanobacteria	NULL	Thermosynechococcus elongatus BP-1
+308959	gvip115	chlD	Cyanobacteria	NULL	Gloeobacter violaceus PCC 7421
+309173	RSP_0274	bchD	Proteobacteria	NULL	Rhodobacter sphaeroides 2.4.1
+309183	RSP_1976	cobT	Proteobacteria	NULL	Rhodobacter sphaeroides 2.4.1
+309232	Rru_A0486	bchD	Proteobacteria	NULL	Rhodospirillum rubrum ATCC 11170
+309309	RPB_RS20240	bchD	Proteobacteria	NULL	Rhodopseudomonas palustris HaA2
+309312	RPB_RS02750	cobT	Proteobacteria	NULL	Rhodopseudomonas palustris HaA2
+309415	RPC_RS06295	bchD	Proteobacteria	NULL	Rhodopseudomonas palustris BisB18
+309420	RPC_RS02730	cobT	Proteobacteria	NULL	Rhodopseudomonas palustris BisB18
+309543	RPE_RS06595	bchD	Proteobacteria	NULL	Rhodopseudomonas palustris BisA53
+309549	RPE_RS00665	cobT	Proteobacteria	NULL	Rhodopseudomonas palustris BisA53
+309776	HHAL_RS08160	bchD	Proteobacteria	NULL	Halorhodospira halophila SL1
+309888	RC1_RS14685	cobT	Proteobacteria	NULL	Rhodospirillum centenum SW
+309903	RC1_RS10005	bchD	Proteobacteria	NULL	Rhodospirillum centenum SW
+309924	RSPH17025_RS15700	cobT	Proteobacteria	NULL	Rhodobacter sphaeroides ATCC 17025
+309926	RSPH17025_RS05185	bchD	Proteobacteria	NULL	Rhodobacter sphaeroides ATCC 17025
+310080	RCAS_RS13095	bchD	Chloroflexi	NULL	Roseiflexus castenholzii DSM 13941
+310182	DSHI_RS13805	cobT	Proteobacteria	NULL	Dinoroseobacter shibae DFL 12 = DSM 16493
+310190	DSHI_RS17730	bchD	Proteobacteria	NULL	Dinoroseobacter shibae DFL 12 = DSM 16493
+310415	MRAD2831_RS50340	cobT	Proteobacteria	NULL	Methylobacterium radiotolerans JCM 2831
+310434	MRAD2831_RS41060	bchD	Proteobacteria	NULL	Methylobacterium radiotolerans JCM 2831
+310446	MPOP_RS15905	bchD	Proteobacteria	NULL	Methylobacterium populi BJ001
+310456	MPOP_RS17035	cobT	Proteobacteria	NULL	Methylobacterium populi BJ001
+310482	NPUN_RS06805	bchD	Cyanobacteria	NULL	Nostoc punctiforme PCC 73102
+310869	MSIL_RS01625	cobT	Proteobacteria	NULL	Methylocella silvestris BL2
+310890	MSIL_RS10550	bchD	Proteobacteria	NULL	Methylocella silvestris BL2
+310939	CAGG_RS15520	bchD	Chloroflexi	NULL	Chloroflexus aggregans DSM 9485
+312143	RLO149_RS12430	cobT	Proteobacteria	NULL	Roseobacter litoralis Och 149
+312264	SADFL11_RS12015	cobT	Proteobacteria	NULL	Labrenzia alexandrii DFL-11
+312283	SADFL11_RS19460	bchD	Proteobacteria	NULL	Labrenzia alexandrii DFL-11
+312369	RVAN_RS02660	bchD	Proteobacteria	NULL	Rhodomicrobium vannielii ATCC 17100
+312477	CWATDRAFT_RS24150	bchD	Cyanobacteria	NULL	Crocosphaera watsonii WH 8501
+312620	MMEL_RS0102360	cobT	Proteobacteria	NULL	Citromicrobium bathyomarinum JL354
+313069	TX73_RS07690	bchD	Proteobacteria	NULL	Rhodopseudomonas palustris CGA009
+313075	TX73_RS02575	cobT	Proteobacteria	NULL	Rhodopseudomonas palustris CGA009
+313253	AMED_7054	chlD	Actinobacteria	NULL	Amycolatopsis mediterranei U32
+313317	ACMV_RS08760	cobT	Proteobacteria	NULL	Acidiphilium multivorum AIU301
+313330	ACMV_RS09430	bchD	Proteobacteria	NULL	Acidiphilium multivorum AIU301
+313595	METUNV1_RS18950	bchD	Proteobacteria	NULL	Methyloversatilis universalis FAM5
+313858	THIMADRAFT_RS02905	bchD	Proteobacteria	NULL	Thiocapsa marina 5811
+313946	THIDRDRAFT_RS20230	bchD	Proteobacteria	NULL	Thiorhodococcus drewsii AZ1
+314145	THIVI_RS08930	bchD	Proteobacteria	NULL	Thiocystis violascens DSM 198
+314677	ON00_RS07470	cobT	Proteobacteria	NULL	Sphingomonas echinoides ATCC 14820
+315559	RGE_RS08150	bchD	Proteobacteria	NULL	Rubrivivax gelatinosus IL144
+315720	PHAMO_RS02900	bchD	Proteobacteria	NULL	Phaeospirillum molischianum DSM 120
+315892	QWE_RS02690	cobT	Proteobacteria	NULL	Agrobacterium albertimagni AOL15
+316690	SPI9445_RS0108735	bchD	Cyanobacteria	NULL	Spirulina subsalsa PCC 9445
+316798	C882_RS00990	bchD	Proteobacteria	NULL	Caenispirillum salinarum AK4
+316774	C882_RS02590	cobT	Proteobacteria	NULL	Caenispirillum salinarum AK4
+317009	UYK_RS0102915	bchD	Cyanobacteria	NULL	Fischerella thermalis PCC 7521
+317052	UYC_RS0105030	bchD	Cyanobacteria	NULL	Chlorogloeopsis fritschii PCC 6912
+317129	CAL6303_RS08510	bchD	Cyanobacteria	NULL	Calothrix sp. PCC 6303
+317249	CYLST_RS10510	bchD	Cyanobacteria	NULL	Cylindrospermum stagnale PCC 7417
+317402	ANACY_RS23025	bchD	Cyanobacteria	NULL	Anabaena cylindrica PCC 7122
+317488	THIMO_RS14340	bchD	Proteobacteria	NULL	Thioflavicoccus mobilis 8321
+317524	METFOR_RS04410	bchD	Euryarchaeota	NULL	Methanoregula formicica SMSP
+317661	PSE7429_RS07625	bchD	Cyanobacteria	NULL	Pseudanabaena biceps PCC 7429
+317736	MIC7126_RS0102560	bchD	Cyanobacteria	NULL	Fortiea contorta PCC 7126
+318974	S58_RS29045	bchD	Proteobacteria	NULL	Bradyrhizobium oligotrophicum S58
+319322	A3OO_RS0105520	bchD	Proteobacteria	NULL	Methylocystis rosea SV97
+319354	A3Q7_RS0111155	bchD	Proteobacteria	NULL	Methyloversatilis thermotolerans
+319668	F563_RS0117550	bchD	Proteobacteria	NULL	Elioraea tepidiphila DSM 17972
+319734	A39O_RS0106975	bchD	Proteobacteria	NULL	Lamprocystis purpurea DSM 4197
+320741	G513_RS0101395	bchD	Proteobacteria	NULL	Nevskia ramosa DSM 11499
+321589	G407_RS0101160	bchD	Proteobacteria	NULL	Salinarimonas rosea DSM 21201
+323165	METFAM1_RS0118360	bchD	Proteobacteria	NULL	Methyloversatilis discipulorum
+323375	D779_RS06280	bchD	Proteobacteria	NULL	Imhoffiella purpurea
+324129	Q331_RS0106690	bchD	Proteobacteria	NULL	Afifella pfennigii DSM 17143
+326466	EP26_RS12175	bchD	Proteobacteria	NULL	Belnapia moabensis DSM 16746
+326989	HRUBRA_RS14475	bchD	Proteobacteria	NULL	Pseudohaliea rubra DSM 19751
+328013	N826_RS37195	bchD	Proteobacteria	NULL	Skermanella aerolata KACC 11604
+330514	BVIR_RS02900	bchD	Proteobacteria	NULL	Blastochloris viridis
+331920	Maq22A_RS22405	cobT	Proteobacteria	NULL	Methylobacterium aquaticum
+331938	Maq22A_RS01625	bchD	Proteobacteria	NULL	Methylobacterium aquaticum
+332330	AX673_RS08425	cobT	Proteobacteria	NULL	Acidovorax delafieldii
+334220	A9P98_RS08140	bchD	Cyanobacteria	NULL	Cylindrospermopsis raciborskii CS-505
+335000	GlitD10_RS00760	bchD	Cyanobacteria	NULL	Gloeomargarita lithophora Alchichica-D10
+335045	BG454_RS15540	cobT	Proteobacteria	NULL	Rhodobaca barguzinensis
+336483	XM38_RS04750	bchD	Cyanobacteria	NULL	Halomicronema hongdechloris C2206
+336529	ROSMUCSMR3_RS17125	cobT	Proteobacteria	NULL	Roseovarius mucosus
+338329	LOKVESSMR4R_RS05000	cobT	Proteobacteria	NULL	Loktanella vestfoldensis
+338373	BZZ01_RS31205	bchD	Cyanobacteria	NULL	Nostocales cyanobacterium HT-58-2
+338487	BLEFHOIH_RS05755	cobT	Proteobacteria	NULL	Rhodomicrobium sp. R_RK_3
+338483	BLEFHOIH_RS20595	bchD	Proteobacteria	NULL	Rhodomicrobium sp. R_RK_3
+338534	CDO81_RS18025	bchD	Proteobacteria	NULL	Pelomonas puraquae
+338649	ATO3_RS04870	cobT	Proteobacteria	NULL	Marinibacterium profundimaris
+338677	CDV24_RS21280	bchD	Cyanobacteria	NULL	Leptolyngbya ohadii IS1
+339675	BLT50_RS04580	cobT	Proteobacteria	NULL	Lutimaribacter saemankumensis
+339802	BLR95_RS09170	bchD	Proteobacteria	NULL	Roseospirillum parvum
+339993	BLS85_RS06870	bchD	Proteobacteria	NULL	Rhodospira trueperi
+340042	BLT43_RS07375	cobT	Proteobacteria	NULL	Loktanella pyoseonensis
+340183	BLP76_RS14030	cobT	Proteobacteria	NULL	Afifella marina DSM 2698
+340191	BLP76_RS14855	bchD	Proteobacteria	NULL	Afifella marina DSM 2698
+340303	BLQ49_RS19360	cobT	Proteobacteria	NULL	Methylobacterium phyllostachyos
+340314	BLQ49_RS25105	bchD	Proteobacteria	NULL	Methylobacterium phyllostachyos
+340527	BLR87_RS06940	cobT	Proteobacteria	NULL	Belnapia rosea
+340516	BLR87_RS19355	bchD	Proteobacteria	NULL	Belnapia rosea
+341020	BLV13_RS00120	bchD	Proteobacteria	NULL	Roseicitreum antarcticum
+341016	BLV13_RS14385	cobT	Proteobacteria	NULL	Roseicitreum antarcticum
+341114	BLW10_RS00175	bchD	Proteobacteria	NULL	Allochromatium warmingii
+341249	BLV27_RS08500	cobT	Proteobacteria	NULL	Jannaschia faecimaris
+341526	BMY44_RS07930	cobT	Proteobacteria	NULL	Loktanella koreensis
+341594	BSG08_RS01015	cobT	Proteobacteria	NULL	Roseovarius azorensis
+341621	BMY52_RS01965	bchD	Proteobacteria	NULL	Ectothiorhodospira marina
+341713	BMX16_RS02125	cobT	Proteobacteria	NULL	Loktanella fryxellensis
+341752	BMX96_RS14800	cobT	Proteobacteria	NULL	Maribius pelagius
+342037	BMX62_RS02125	bchD	Proteobacteria	NULL	Ectothiorhodospira magna
+342231	BMZ25_RS11710	cobT	Proteobacteria	NULL	Roseivivax roseus
+342717	BM249_RS02010	cobT	Proteobacteria	NULL	Methylobacterium gossipiicola
+342730	BM249_RS12675	bchD	Proteobacteria	NULL	Methylobacterium gossipiicola
+342787	BM064_RS13190	cobT	Proteobacteria	NULL	Albimonas pacifica
+342866	BM002_RS04740	cobT	Proteobacteria	NULL	Jannaschia pohangensis
+342968	BM177_RS12330	cobT	Proteobacteria	NULL	Methylocapsa palsarum
+342982	BM177_RS14365	bchD	Proteobacteria	NULL	Methylocapsa palsarum
+343012	BM041_RS05820	cobT	Proteobacteria	NULL	Roseomonas stagni DSM 19981
+343020	BM041_RS01615	bchD	Proteobacteria	NULL	Roseomonas stagni DSM 19981
+343121	BM316_RS08305	cobT	Proteobacteria	NULL	Loktanella litorea
+343168	BM214_RS04555	bchD	Proteobacteria	NULL	Ectothiorhodospira mobilis
+343445	BM162_RS03670	cobT	Proteobacteria	NULL	Tranquillimonas alkanivorans
+343516	BM171_RS07025	cobT	Proteobacteria	NULL	Roseivivax halotolerans
+345429	CALSC_RS14780	bchD	Cyanobacteria	NULL	Calothrix rhizosoleniae SC01
+345499	CFB24_RS16070	cobT	Proteobacteria	NULL	Rhodoblastus acidophilus
+345490	CFB24_RS16280	bchD	Proteobacteria	NULL	Rhodoblastus acidophilus
+345907	RD1_RS15345	cobT	Proteobacteria	NULL	Roseobacter denitrificans OCh 114
+308360	MFS40622_RS06240_fs_MFS40622_RS06245	NULL	Euryarchaeota	-1	Methanocaldococcus sp. FS406-22
+308382	MEFER_RS06095_fs_MEFER_RS06100	NULL	Euryarchaeota	-1	Methanocaldococcus fervens AG86
+308402	DACI_RS29040_fs_DACI_RS29035	NULL	Proteobacteria	-1	Delftia acidovorans SPH-1
+308426	MVOL_RS03410_fs_MVOL_RS03405	NULL	Euryarchaeota	-1	Methanococcus voltae A3
+308443	PA2942_fs_PA2941	NULL	Proteobacteria	-1	Pseudomonas aeruginosa PAO1
+308553	PP_3506_fs_PP_3505	NULL	Proteobacteria	-1	Pseudomonas putida KT2440
+308604	PSPTO_3148_fs_PSPTO_3147	NULL	Proteobacteria	-1	Pseudomonas syringae pv. tomato str. DC3000
+308892	CE_RS09435_fs_CE_RS09430	NULL	Actinobacteria	1	Corynebacterium efficiens YS-314
+308911	NCgl1922_fs_NCgl1921	NULL	Actinobacteria	1	Corynebacterium glutamicum ATCC 13032
+309039	BPSL1767_fs_BPSL1766	NULL	Proteobacteria	-1	Burkholderia pseudomallei K96243
+309381	BXE_RS28850_fs_BXE_RS28855	NULL	Proteobacteria	-1	Paraburkholderia xenovorans LB400
+309991	PMEN_RS23105_fs_PMEN_RS23100	NULL	Proteobacteria	-1	Pseudomonas mendocina ymp
+310032	MEVAN_RS00645_fs_MEVAN_RS00640	NULL	Euryarchaeota	-1	Methanococcus vannielii SB
+310053	MAEO_RS00545_fs_MAEO_RS00540	NULL	Euryarchaeota	-1	Methanococcus aeolicus Nankai-3
+310079	RCAS_RS07255_fs_RCAS_RS07260	NULL	Chloroflexi	-1	Roseiflexus castenholzii DSM 13941
+310531	BPHY_RS16030_fs_BPHY_RS16025	NULL	Proteobacteria	-1	Paraburkholderia phymatum STM815
+311030	CKROP_RS05690_fs_CKROP_RS05685	NULL	Actinobacteria	1	Corynebacterium kroppenstedtii DSM 44385
+311129	SHEL_RS06795_fs_SHEL_RS06790	NULL	Actinobacteria	-1	Slackia heliotrinireducens DSM 20476
+311309	METVU_RS00540_fs_METVU_RS00535	NULL	Euryarchaeota	-1	Methanocaldococcus vulcanius M7
+311658	MJ_RS04875_fs_MJ_RS04870	NULL	Euryarchaeota	-1	Methanocaldococcus jannaschii DSM 2661
+311696	METIN_RS00650_fs_METIN_RS00655	NULL	Euryarchaeota	-1	Methanocaldococcus infernus ME
+311837	SPIRS_RS12035_fs_SPIRS_RS12030	NULL	Spirochaetes	-1	Sediminispirochaeta smaragdinae DSM 11293
+311903	CPC231_RS16845_fs_CPC231_RS16840	NULL	Actinobacteria	1	Corynebacterium pseudotuberculosis C231
+312414	MFER_RS06885_fs_MFER_RS06880	NULL	Euryarchaeota	-1	Methanothermus fervidus DSM 2088
+312593	HMPREF0299_RS06850_fs_HMPREF0299_RS06845	NULL	Actinobacteria	1	Corynebacterium matruchotii ATCC 14266
+312716	METOK_RS05965_fs_METOK_RS05970	NULL	Euryarchaeota	-1	Methanothermococcus okinawensis IH1
+312740	SPITH_RS07620_fs_SPITH_RS07615	NULL	Spirochaetes	-1	Spirochaeta thermophila DSM 6578
+312809	VARPA_RS19190_fs_VARPA_RS19185	NULL	Proteobacteria	-1	Variovorax paradoxus EPS
+313035	DESAC_RS14805_fs_DESAC_RS14800	NULL	Proteobacteria	-1	Desulfobacca acetoxidans DSM 11109
+313291	ANT_RS02670_fs_ANT_RS02675	NULL	Chloroflexi	-1	Anaerolinea thermophila UNI-1
+313508	HGR_RS12685_fs_HGR_RS12680	NULL	Proteobacteria	-1	Hylemonella gracilis ATCC 19624
+313527	PSEFU_RS22170_fs_PSEFU_RS22165	NULL	Proteobacteria	-1	Pseudomonas fulva 12-X
+313682	METIG_RS02945_fs_METIG_RS02940	NULL	Euryarchaeota	-1	Methanotorris igneus Kol 5
+313814	GYY_RS04120_fs_GYY_RS04125	NULL	Euryarchaeota	-1	Methanococcus maripaludis X1
+314461	PSF113_RS46860_fs_PSF113_RS46865	NULL	Proteobacteria	-1	Pseudomonas fluorescens F113
+314702	FRAAU_RS06340_fs_FRAAU_RS06345	NULL	Proteobacteria	-1	Frateuria aurantia DSM 6220
+314899	METLIM_RS16260_fs_2466685	NULL	Euryarchaeota	-1	Methanoplanus limicola DSM 2279
+314926	METFODRAFT_RS06990_fs_METFODRAFT_RS06985	NULL	Euryarchaeota	-1	Methanotorris formicicus Mc-S-70
+315141	MTC_RS08495_fs_1637839	NULL	Euryarchaeota	-1	Methanocella conradii HZ254
+315196	TZI_RS10050_fs_247846	NULL	Euryarchaeota	-1	Thermococcus zilligii AN1
+315476	CLDAP_RS11925_fs_CLDAP_RS11930	NULL	Chloroflexi	-1	Caldilinea aerophila DSM 14535 = NBRC 104270
+315561	RGE_RS21735_fs_RGE_RS21730	NULL	Proteobacteria	-1	Rubrivivax gelatinosus IL144
+315923	A994_RS10025_fs_A994_RS10020	NULL	Euryarchaeota	-1	Methanobacterium formicicum DSM 3637
+316315	ON31_RS20815_fs_ON31_RS20810	NULL	Actinobacteria	-1	Nocardia otitidiscaviarum NBRC 14405
+317471	HMPREF9997_RS10405_fs_HMPREF9997_RS10400	NULL	Actinobacteria	1	Corynebacterium durum F0235
+318939	H924_RS08525_fs_H924_RS08520	NULL	Actinobacteria	1	Corynebacterium callunae DSM 20147
+319177	METVI_RS0104220_fs_METVI_RS0104225	NULL	Euryarchaeota	-1	Methanocaldococcus villosus KIN24-T80
+319195	A3E7_RS0103905_fs_A3E7_RS0103900	NULL	Actinobacteria	1	Corynebacterium ciconiae DSM 44920
+319597	F555_RS0105085_fs_F555_RS0105095	NULL	Euryarchaeota	-1	Methanothermococcus thermolithotrophicus DSM 2095
+320164	G369_RS0106845_fs_G369_RS37475	NULL	Proteobacteria	-1	Variovorax paradoxus 110B
+320500	PFLCHA0_RS18415_fs_PFLCHA0_RS18410	NULL	Proteobacteria	-1	Pseudomonas protegens CHA0
+320558	HMPREF1219_RS04080_fs_HMPREF1219_RS04075	NULL	Actinobacteria	1	Corynebacterium pyruviciproducens ATCC BAA-1742
+320579	PCA10_RS03285_fs_PCA10_RS03280	NULL	Proteobacteria	-1	Pseudomonas resinovorans NBRC 106553
+320655	F608_RS32460_fs_F608_RS0117735	NULL	Proteobacteria	-1	Desulfospira joergensenii DSM 10085
+320837	H567_RS25745_fs_H567_RS27995	NULL	Proteobacteria	-1	Desulfatiglans anilini DSM 4660
+321383	HALNA_RS04665_fs_HALNA_RS04660	NULL	Euryarchaeota	-1	Haloplanus natans DSM 17983
+321440	YWU_RS0107530_fs_YWU_RS0107535	NULL	Actinobacteria	1	Corynebacterium sputi DSM 45148
+321485	G393_RS0104010_fs_G393_RS0104015	NULL	Actinobacteria	1	Corynebacterium freiburgense DSM 45254
+321673	G486_RS0105250_fs_G486_RS0105245	NULL	Proteobacteria	-1	Comamonas composti DSM 21721
+321916	M622_RS35195_fs_M622_RS35190	NULL	Proteobacteria	-1	Thauera terpenica 58Eu
+345962	TX93_RS07460_fs_TX93_RS07465	NULL	Euryarchaeota	-1	Methanobrevibacter arboriphilus ANOR1
+345964	TX93_RS09770_fs_TX93_RS07480	NULL	Euryarchaeota	-1	Methanobrevibacter arboriphilus ANOR1
+323070	DEFCA_RS0107745_fs_DEFCA_RS0107750	NULL	Proteobacteria	-1	Deferrisoma camini S3R1
+323204	B843_RS08410_fs_B843_RS08405	NULL	Actinobacteria	1	Corynebacterium vitaeruminis DSM 20294
+323462	CARG_RS05790_fs_CARG_RS05785	NULL	Actinobacteria	1	Corynebacterium argentoratense DSM 44202
+323917	CGLY_RS10755_fs_CGLY_RS10750	NULL	Actinobacteria	1	Corynebacterium glyciniphilum AJ 3170
+323935	ECTHA_RS0100100_fs_ECTHA_RS16325	NULL	Proteobacteria	-1	Ectothiorhodospira haloalkaliphila ATCC 51935
+324051	BAC01S_RS05465_fs_BAC01S_RS05470	NULL	Proteobacteria	-1	Paraburkholderia acidipaludis NBRC 101816
+324110	Q390_RS0109695_fs_Q390_RS0109700	NULL	Proteobacteria	-1	Simplicispira psychrophila DSM 11588
+324286	BG60_RS15445_fs_BG60_RS15450	NULL	Proteobacteria	-1	Caballeronia zhejiangensis
+324312	BG61_RS13540_fs_BG61_RS13535	NULL	Proteobacteria	-1	Caballeronia glathei
+324530	T502_RS08695_fs_T502_RS08700	NULL	Euryarchaeota	-1	Methanomicrobium mobile BP
+326069	JH146_RS05080_fs_JH146_RS05085	NULL	Euryarchaeota	-1	Methanocaldococcus bathoardescens
+326123	O987_RS11420_fs_O987_RS11415	NULL	Proteobacteria	-1	Comamonas testosteroni TK102
+326175	BKU01S_RS24915_fs_BKU01S_RS24920	NULL	Proteobacteria	-1	Paraburkholderia kururiensis subsp. thiooxydans NBRC 107107
+326233	BS83_RS34340_fs_5546949	NULL	Actinobacteria	-1	Streptacidiphilus rugosus AM-16
+326270	BS75_RS43520_fs_6782770	NULL	Actinobacteria	-1	Streptacidiphilus albus JL83
+326340	BS73_RS12025_fs_1748682	NULL	Actinobacteria	-1	Streptacidiphilus oryzae TH49
+326626	HMPREF1650_RS03390_fs_HMPREF1650_RS03395	NULL	Actinobacteria	1	Corynebacterium freneyi DNF00450
+326671	LT42_RS05340_fs_LT42_RS05335	NULL	Proteobacteria	-1	Pseudomonas lutea
+326843	LT40_RS10200_fs_LT40_RS10205	NULL	Proteobacteria	-1	Pseudomonas rhizosphaerae
+326927	BRM9_RS09265_fs_BRM9_RS09260	NULL	Euryarchaeota	-1	Methanobacterium formicicum
+326961	TKV_RS02525_fs_512211	NULL	Firmicutes	-1	Thermoanaerobacter kivui
+327093	NH14_RS26755_fs_NH14_RS26760	NULL	Proteobacteria	-1	Paraburkholderia sacchari
+327234	AW38_RS06075_fs_AW38_RS06080	NULL	Proteobacteria	-1	Pseudomonas putida
+327312	PL21_RS08525_fs_PL21_RS08530	NULL	Proteobacteria	-1	Tepidimonas taiwanensis
+327458	Achr_RS22220_fs_Achr_RS22225	NULL	Proteobacteria	-1	Azotobacter chroococcum NCIMB 8003
+327522	GFER_RS08620_fs_GFER_RS08615	NULL	Proteobacteria	-1	Geoalkalibacter ferrihydriticus DSM 17813
+327553	BN1188_RS18560_fs_BN1188_RS18565	NULL	Proteobacteria	-1	Pseudomonas massiliensis
+327641	GSUB_RS07835_fs_GSUB_RS07840	NULL	Proteobacteria	-1	Geoalkalibacter subterraneus
+327756	RR42_RS32325_fs_RR42_RS32320	NULL	Proteobacteria	-1	Cupriavidus basilensis
+327938	MA05_RS09440_fs_MA05_RS09445	NULL	Proteobacteria	-1	Comamonas aquatica
+328160	MVIS_RS23660_fs_MVIS_RS23655	NULL	Proteobacteria	-1	Moritella viscosa
+328191	BW23_RS15320_fs_BW23_RS15315	NULL	Proteobacteria	-1	Burkholderia ubonensis MSMB22
+328219	BM43_RS32960_fs_BM43_RS32965	NULL	Proteobacteria	-1	Burkholderia gladioli
+328680	WM40_RS07470_fs_WM40_RS07475	NULL	Proteobacteria	-1	Robbsia andropogonis
+328777	KF709C_RS18255_fs_KF709C_RS18250	NULL	Proteobacteria	-1	Cupriavidus pauculus
+328808	UL82_RS06300_fs_UL82_RS06295	NULL	Actinobacteria	1	Corynebacterium kutscheri
+328969	CMUST_RS09235_fs_CMUST_RS09230	NULL	Actinobacteria	1	Corynebacterium mustelae
+328989	CEPID_RS07430_fs_CEPID_RS07425	NULL	Actinobacteria	1	Corynebacterium epidermidicanis
+329288	ATHL_RS02270_fs_ATHL_RS02275	NULL	Chloroflexi	-1	Anaerolinea thermolimosa
+329305	LARV_RS05890_fs_LARV_RS05885	NULL	Chloroflexi	-1	Longilinea arvoryzae
+329325	LTAR_RS13115_fs_LTAR_RS13120	NULL	Chloroflexi	-1	Leptolinea tardivitalis
+329370	ADB27_RS11545_fs_ADB27_RS11550	NULL	Actinobacteria	1	Corynebacterium halotolerans
+329390	AMO33_RS28315_fs_2502888	NULL	Actinobacteria	-1	Nocardia farcinica
+329590	ATC1_RS14220_fs_ATC1_RS14225	NULL	Chloroflexi	-1	Flexilinea flocculi
+329826	CLAC_RS05185_fs_CLAC_RS05190	NULL	Actinobacteria	1	Corynebacterium lactis RW2-5
+329845	CDES_RS08620_fs_CDES_RS08615	NULL	Actinobacteria	1	Corynebacterium deserti GIMN1.010
+329979	WG78_RS11600_fs_WG78_RS11595	NULL	Proteobacteria	-1	Amantichitinum ursilacus
+330159	ADN01_RS05010_fs_ADN01_RS05015	NULL	Chloroflexi	-1	Levilinea saccharolytica
+330179	AC812_RS06745_fs_AC812_RS06740	NULL	Chloroflexi	-1	Bellilinea caldifistulae
+330196	ADN00_RS19480_fs_362264	NULL	Chloroflexi	-1	Ornatilinea apprima
+330215	SE18_RS09090_fs_SE18_RS09095	NULL	Chloroflexi	-1	Herpetosiphon geysericola
+330258	SE15_RS01475_fs_SE15_RS01470	NULL	Chloroflexi	-1	Thermanaerothrix daxensis
+330631	APZ15_RS12870_fs_APZ15_RS12875	NULL	Proteobacteria	-1	Burkholderia cepacia ATCC 25416
+331217	AT687_RS07295_fs_AT687_RS07290	NULL	Actinobacteria	1	Corynebacterium diphtheriae
+331578	CT3_RS00490_fs_CT3_RS00485	NULL	Proteobacteria	-1	Comamonas terrigena NBRC 13299
+331720	APT63_RS08230_fs_APT63_RS08235	NULL	Proteobacteria	-1	Pseudomonas monteilii
+331805	TT78_RS01170_fs_TT78_RS01165	NULL	Proteobacteria	-1	Comamonas terrae
+331826	AWB66_RS02890_fs_AWB66_RS02895	NULL	Proteobacteria	-1	Caballeronia telluris
+331855	AWB72_RS11970_fs_AWB72_RS11965	NULL	Proteobacteria	-1	Caballeronia concitans
+331876	AWB82_RS20680_fs_AWB82_RS20675	NULL	Proteobacteria	-1	Caballeronia glebae
+332140	CX1_RS09470_fs_CX1_RS09465	NULL	Actinobacteria	1	Corynebacterium xerosis NBRC 16721
+332641	HPA01S_RS11865_fs_HPA01S_RS11870	NULL	Proteobacteria	-1	Hydrogenophaga palleronii NBRC 102513
+332840	A0T30_RS08905_fs_A0T30_RS08900	NULL	Proteobacteria	-1	Pseudomonas alcaligenes
+333189	NJ1_RS25830_fs_38048	NULL	Actinobacteria	1	Nocardia jejuensis NBRC 103114
+333351	NU1_RS22650_fs_3924	NULL	Actinobacteria	-1	Nocardia uniformis NBRC 13702
+333725	MBCUR_RS00240_fs_MBCUR_RS00235	NULL	Euryarchaeota	-1	Methanobrevibacter curvatus
+333723	MBCUR_RS03705_fs_MBCUR_RS03710	NULL	Euryarchaeota	-1	Methanobrevibacter curvatus
+333841	ccrud_RS08685_fs_ccrud_RS08680	NULL	Actinobacteria	1	Corynebacterium crudilactis
+334046	A9C11_RS03930_fs_A9C11_RS03925	NULL	Proteobacteria	-1	Pseudomonas citronellolis
+334202	A9O67_RS08730_fs_A9O67_RS08735	NULL	Proteobacteria	-1	Tepidimonas fonticaldi
+334525	BBK82_RS22390_fs_4501430	NULL	Actinobacteria	-1	Lentzea guizhouensis
+334944	BJG93_RS27160_fs_BJG93_RS27155	NULL	Proteobacteria	-1	Paraburkholderia sprentiae WSM5005
+335790	BJP27_RS02885_fs_BJP27_RS02880	NULL	Proteobacteria	-1	Pseudomonas psychrotolerans
+335847	CAQU_RS07580_fs_CAQU_RS07575	NULL	Actinobacteria	1	Corynebacterium aquilae DSM 44791
+335866	CSPHI_RS05260_fs_CSPHI_RS05265	NULL	Actinobacteria	1	Corynebacterium sphenisci DSM 44792
+335998	RS694_RS09205_fs_RS694_RS09210	NULL	Proteobacteria	-1	Rhodoferax saidenbachensis
+336020	RA876_RS02030_fs_RA876_RS02035	NULL	Proteobacteria	-1	Rhodoferax antarcticus
+336450	B4U46_RS08905_fs_1958370	NULL	Actinobacteria	-1	Streptomyces katrae
+337081	PNI01S_RS09275_fs_PNI01S_RS09270	NULL	Proteobacteria	-1	Pseudomonas nitroreducens NBRC 12694
+337917	A4W93_RS22850_fs_A4W93_RS22855	NULL	Proteobacteria	-1	Rhizobacter gummiphilus
+338295	CCO03_RS05305_fs_CCO03_RS05310	NULL	Proteobacteria	-1	Comamonas serinivorans
+338598	CEQ06_RS13485_fs_CEQ06_RS13490	NULL	Actinobacteria	1	Corynebacterium jeikeium
+338724	IMCC3135_RS08505_fs_IMCC3135_RS08510	NULL	Proteobacteria	-1	Granulosicoccus antarcticus IMCC3135
+339824	BLS63_RS15365_fs_BLS63_RS15370	NULL	Proteobacteria	-1	Pseudomonas benzenivorans
+340123	BLR32_RS07415_fs_BLR32_RS07420	NULL	Bacteroidetes	-1	Chitinophaga filiformis
+340153	BLT03_RS04790_fs_BLT03_RS04785	NULL	Proteobacteria	-1	Acidovorax valerianellae
+340661	BLT78_RS09690_fs_BLT78_RS09695	NULL	Proteobacteria	-1	Pseudomonas oryzae
+340692	BLV92_RS25400_fs_BLV92_RS25405	NULL	Proteobacteria	-1	Paraburkholderia caballeronis
+340773	BLW24_RS07405_fs_BLW24_RS07400	NULL	Proteobacteria	-1	Pseudomonas anguilliseptica
+340940	BLU22_RS12710_fs_BLU22_RS12705	NULL	Proteobacteria	-1	Pseudomonas guangdongensis
+340982	BLV15_RS15280_fs_BLV15_RS15275	NULL	Proteobacteria	-1	Pseudomonas kuykendallii
+341372	BLV45_RS23190_fs_BLV45_RS23185	NULL	Proteobacteria	-1	Paraburkholderia sartisoli
+341438	BLW67_RS21420_fs_BLW67_RS21415	NULL	Proteobacteria	-1	Pseudomonas fuscovaginae
+341623	BMY52_RS12870_fs_BMY52_RS12865	NULL	Proteobacteria	-1	Ectothiorhodospira marina
+342291	BQ4888_RS13830_fs_BQ4888_RS13825	NULL	Proteobacteria	-1	Desulfuromonas acetexigens
+342322	BM198_RS23215_fs_BM198_RS23210	NULL	Proteobacteria	-1	Pseudomonas otitidis
+342809	BMZ32_RS07535_fs_BMZ32_RS07540	NULL	Proteobacteria	-1	Pseudomonas guineae
+342830	BM166_RS00175_fs_BM166_RS00180	NULL	Proteobacteria	-1	Paraburkholderia megapolitana
+343172	BM214_RS11455_fs_BM214_RS11450	NULL	Proteobacteria	-1	Ectothiorhodospira mobilis
+343478	BM297_RS16925_fs_BM297_RS16920	NULL	Proteobacteria	-1	Pseudomonas sagittaria
+344010	BUC26_RS03160_fs_BUC26_RS03155	NULL	Proteobacteria	-1	Desulfofustis glycolicus DSM 9705
+344077	BUE40_RS07435_fs_BUE40_RS07440	NULL	Proteobacteria	-1	Pseudomonas zeshuii
+344219	BUB13_RS10160_fs_BUB13_RS10165	NULL	Proteobacteria	-1	Malonomonas rubra DSM 5091
+344443	BUA36_RS11560_fs_BUA36_RS11565	NULL	Proteobacteria	-1	Duganella sacchari
+345125	B8982_RS11635_fs_B8982_RS11640	NULL	Actinobacteria	1	Corynebacterium glucuronolyticum
+345397	B9N91_RS23785_fs_B9N91_RS23790	NULL	Proteobacteria	-1	Paraburkholderia caryophylli
+345421	CFX1CAM_RS00815_fs_CFX1CAM_RS00810	NULL	Chloroflexi	-1	Brevefilum fermentans
